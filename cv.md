@@ -7,3 +7,7 @@
 *GitHub: vigo44
 #About Me
 I am an aerospace engineer
+#Skills
+*Html
+*Css
+*Git
