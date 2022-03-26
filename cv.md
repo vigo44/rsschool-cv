@@ -13,3 +13,5 @@ I am an aerospace engineer
 *Git
 #Education
 Samara State Aerospace university, faculty of Radio engineering
+#English
+A2 (Pre-Intermediate)
