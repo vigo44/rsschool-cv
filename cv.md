@@ -11,3 +11,5 @@ I am an aerospace engineer
 *Html
 *Css
 *Git
+#Education
+Samara State Aerospace university, faculty of Radio engineering
